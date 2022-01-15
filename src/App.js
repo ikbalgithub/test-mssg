@@ -4,7 +4,6 @@ import * as Router from 'react-router-dom';
 function Home(){
   return (
     <h2>Home</h2>
-    <h2>Test</h2>
   )
 }
 
