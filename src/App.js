@@ -21,7 +21,7 @@ function App() {
           path="/" element={<Home />} 
         />
         <Router.Route
-          path="/test" element={<test />} />
+          path="/test" element={<Test />} />
         />
       </Router.Routes>
     </div>
